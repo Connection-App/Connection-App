@@ -1,0 +1,8 @@
+{
+  "name": "connectionApp",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/Connection-App/Connection-App.git",
+  "author": "Naman Parashar <nparashar150@gmail.com>",
+  "license": "MIT"
+}
